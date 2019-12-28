@@ -1,0 +1,9 @@
+c:\users\adder\documents\visual studio 2015\Projects\Mortgage Calculator\Mortgage Calculator\bin\Debug\Mortgage Calculator.exe.config
+c:\users\adder\documents\visual studio 2015\Projects\Mortgage Calculator\Mortgage Calculator\bin\Debug\Mortgage Calculator.exe
+c:\users\adder\documents\visual studio 2015\Projects\Mortgage Calculator\Mortgage Calculator\bin\Debug\Mortgage Calculator.pdb
+c:\users\adder\documents\visual studio 2015\Projects\Mortgage Calculator\Mortgage Calculator\obj\Debug\Mortgage Calculator.csprojResolveAssemblyReference.cache
+c:\users\adder\documents\visual studio 2015\Projects\Mortgage Calculator\Mortgage Calculator\obj\Debug\Mortgage_Calculator.Form1.resources
+c:\users\adder\documents\visual studio 2015\Projects\Mortgage Calculator\Mortgage Calculator\obj\Debug\Mortgage_Calculator.Properties.Resources.resources
+c:\users\adder\documents\visual studio 2015\Projects\Mortgage Calculator\Mortgage Calculator\obj\Debug\Mortgage Calculator.csproj.GenerateResource.Cache
+c:\users\adder\documents\visual studio 2015\Projects\Mortgage Calculator\Mortgage Calculator\obj\Debug\Mortgage Calculator.exe
+c:\users\adder\documents\visual studio 2015\Projects\Mortgage Calculator\Mortgage Calculator\obj\Debug\Mortgage Calculator.pdb
